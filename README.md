@@ -1,17 +1,17 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aziz
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Alyan
 ============================================================================================================================
 
-web Developer and Designer
+Full-Stack Developer and Software Engineering student
 --------------------------
 
 i currently learning coding in a bootcamp for future work :)
 
 * 🌍  I'm based in Jerusalem
-* ✉️  You can contact me at [aziztouma030gmail.com](mailto:aziztouma030gmail.com)
-* 🧠  I'm currently learning  React,Javascripte,Node.js
+* ✉️  You can contact me at [mohammed.s.alyan@gmail.com](mailto:mohammed.s.alyan@gmail.com)
+* 🧠  I'm currently learning Software Engineering
 
-<a href="https://www.github.com/azizt24" target="_blank" rel="noreferrer"><img
+<a href="[https://www.github.com/azizt24](https://github.com/Mohasalyan)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/azizt24?logo=github&style=for-the-badge&color=000000&labelColor=134e4a" /></a>
 
 ### Skills
@@ -24,15 +24,15 @@ src="https://img.shields.io/github/followers/azizt24?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/aziz.a.touma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/azizt24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aziz-touma-045608208" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="[https://www.facebook.com/FALCONMM](https://www.facebook.com/FALCONMM)" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="[https://github.com/Mohasalyan](https://github.com/Mohasalyan)" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aziz-touma-045608208" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/azizt24"><img src="https://github-readme-stats.vercel.app/api?username=azizt24&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=134e4a&hide_border=true&show_icons=true" alt="azizt24's GitHub stats" /></a>
+<a href="[https://github.com/Mohasalyan](https://github.com/Mohasalyan)](https://github.com/Mohasalyan)"><img src="https://github-readme-stats.vercel.app/api?username=azizt24&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=134e4a&hide_border=true&show_icons=true" alt="azizt24's GitHub stats" /></a>
 
-<a href="https://github.com/azizt24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizt24&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Mohasalyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohasalyan&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
