@@ -1,5 +1,5 @@
 Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://avatars.githubusercontent.com/u/135972612?s=400&u=75182a9e44df3b034d82bbe0c4ff179105dd9c70&v=4))My name is Mohammed alyan
-<h3 align="center">Full-Stack Developer and Software Engineering student from India</h3>
+<h3 align="center">Full-Stack Developer and Software Engineering student </h3>
 
 - 🔭 I’m currently working on **MovieApp**
 
